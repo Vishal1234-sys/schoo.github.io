@@ -1,2 +1,2 @@
-# school.github.io
+# the amazing school.github.io
  webite
