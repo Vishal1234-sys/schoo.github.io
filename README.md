@@ -1,2 +1,2 @@
 # school.github.io
- webite
+ Personal website by Vishal Tiwari.
