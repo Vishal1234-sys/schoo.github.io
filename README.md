@@ -1,2 +1,2 @@
 # school.github.io
- webite
+Introducing the best website 
